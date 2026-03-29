@@ -1,0 +1,306 @@
+[
+  {
+    "id": 1,
+    "mission": "Solnik",
+    "type": "dialogue",
+    "entries": [
+      {
+        "speaker": "Maciek",
+        "text": "Hmm hmm hm hm hmmm, jeszcze troche soooliii."
+      },
+      {
+        "speaker": "Henio",
+        "text": "Mmmale pięknie pachnie Maciek co gotujesz?"
+      },
+      {
+        "speaker": "Maciek",
+        "text": "Wode"
+      },
+      {
+        "speaker": "kurwinox 2",
+        "text": "Ale sie zrobiła świąteczna atmosferaaaa."
+      },
+      {
+        "speaker": "kurwinox 2",
+        "text": "U nas, na wigili zawsze była woda, ojeciec już dwa dni wcześniej zbierał śnieg do miednicy, aaaale aromat, czego dodałeś?"
+      },
+      {
+        "speaker": "Maciek",
+        "text": "Soli"
+      },
+      {
+        "speaker": "kurwinox 2",
+        "text": "Aaaa klasyyka, ale podjemy."
+      },
+      {
+        "speaker": "Maciek",
+        "text": "Kolego, nikt nie powiedział, że się z tobą podzielę, a już na pewno nie ja."
+      },
+      {
+        "speaker": "Henio",
+        "text": "Oj tam Maciuś, poczęstujemy go, starczy dla wszystkich."
+      },
+      {
+        "speaker": "Maciek",
+        "text": "Heniu... Tobie też nie dam."
+      },
+      {
+        "speaker": "Henio",
+        "text": "Pacaczgie go jaki żydek! Nagotował pyszności, smaka narobił i co!? A udław się tą zupą chytrusie! Zobaczymy co powiesz jak jutro będe babkę piaskową robił."
+      },
+      {
+        "speaker": "Maciek",
+        "text": "Heh, ściemniać trzeba umieć, skąd weźmiesz piach na skalistej planecie."
+      },
+      {
+        "speaker": "kurwinox 2",
+        "text": "Czekaj Heniu, mam lepszy pomysł, - strzela do Henia - Teraz jest nas dwóch do podziału, dawaj zupkeeee, albo pożegnam się z życiem, a wtedy zginiesz z nudów."
+      },
+      {
+        "speaker": "Maciek",
+        "text": "Bez przesady, jest jeszcze Cyprian"
+      },
+      {
+        "speaker": "kurwinox 2",
+        "text": "A, zapomniałem o tym pijaku. Cyprian wstawaj!"
+      },
+      {
+        "speaker": "Cyprian",
+        "text": "O co chodzi?"
+      },
+      {
+        "speaker": "Henio",
+        "text": "- Strzela do Cypriana - Dawaj zupkę bo będe następny!"
+      },
+      {
+        "speaker": "Maciek",
+        "text": "Dobra, przekonałeś mnie, ale ostrożnie jest letnia."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "mission": "-",
+    "type": "phrase",
+    "entries": [
+      {
+        "speaker": "Domino Jachaś",
+        "text": "Ahh, słońce, piasek, ciepłe wygazowane piwo"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "mission": "-",
+    "type": "phrase",
+    "entries": [
+      {
+        "speaker": "Domino Jachaś",
+        "text": "Zapytacie, a gdzie pizza? A ja na to pstryyyyk! średnią hawajską dla każdego!"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "mission": "-",
+    "type": "phrase",
+    "entries": [
+      {
+        "speaker": "Domino Jachaś",
+        "text": "Wóda i dziwki dla każdego! Podwójna!"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "mission": "-",
+    "type": "phrase",
+    "entries": [
+      {
+        "speaker": "Domino Jachaś",
+        "text": "Wóda i dziwki dla każdego! Podwójna!"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "mission": "-",
+    "type": "phrase",
+    "entries": [
+      {
+        "speaker": "Domino Jachaś",
+        "text": "Z Domino niebiańska Skurwoala cię nie omino!"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "mission": "-",
+    "type": "phrase",
+    "entries": [
+      {
+        "speaker": "Sebek",
+        "text": "To mały krok dla ludzkości, ale dla karła normalny"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "mission": "-",
+    "type": "phrase",
+    "entries": [
+      {
+        "speaker": "Bogusław Łęcina",
+        "text": "Konkurencji miękną rury jak Łęcina kładzie glazury"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "mission": "-",
+    "type": "phrase",
+    "entries": [
+      {
+        "speaker": "Bogusław Łęcina",
+        "text": "Nie ma chuja na glazury Bogunia"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "mission": "-",
+    "type": "phrase",
+    "entries": [
+      {
+        "speaker": "Michał",
+        "text": "Trakcja to śmnierć, tory to jest przyszłość"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "mission": "-",
+    "type": "dialogue",
+    "entries": [
+      {
+        "speaker": "Irek",
+        "text": "Michał, podaj mi piłę, upierdole kabelki ale sie obłowimy, czujesz ten zapach? Tak pachnnie sto złoty"
+      },
+      {
+        "speaker": "Michał",
+        "text": "Irek kurwa twoja mać złaź z tego słupa. Prąd cie jebnie i nieszczęscie gotowe, lepiej pomóż mi odkręcać tory."
+      },
+      {
+        "speaker": "Irek",
+        "text": "A chuj tym torom w dupe! Kabelki!"
+      },
+      {
+        "speaker": "Irek",
+        "text": "Kurwa, twarde te kabelki, nieźle się trzeba napierdolić, żeby je zapierdolić. Ale do majątku nigdy niedochodzi się łatwo. Taki na przykład mój ojciec, kradł trakcjeeee całe życie. Niech mu ziemia lekką będzie. Dobry trakciarz, podobnie jak sapper, myli się tylko raz. mkurrrwawaaaa!!!"
+      },
+      {
+        "speaker": "Michał",
+        "text": "Renuś nieeeeee!!! Tak bym powiedział jak by mi cie było szkoda. Ale kurwa ile razy powtarzałem, trakcja to śmnierć, tory to jest przyszłość."
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "mission": "-",
+    "type": "phrase",
+    "entries": [
+      {
+        "speaker": "Domino",
+        "text": "Karta mi dzisiaj żre!"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "mission": "Wrota Światów",
+    "type": "dialogue",
+    "entries": [
+      {
+        "speaker": "Kosmita",
+        "text": "Czy znacie legende o niemym Michałku, który tak żuł gumę... że oślepł?"
+      },
+      {
+        "speaker": "Sebek",
+        "text": "Nie"
+      },
+      {
+        "speaker": "Kosmita",
+        "text": "...koniec"
+      },
+      {
+        "speaker": "Tytus Bomba",
+        "text": "Smutne"
+      },
+      {
+        "speaker": "-",
+        "text": "E tam, niemy był od urodzenia"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "mission": "-",
+    "type": "phrase",
+    "entries": [
+      {
+        "speaker": "Domino",
+        "text": "Płonie łęcina i szumi rdeeeest, echo niesie RKS. Sędzia niesłusznie podyktował rożny, nanananaaaa"
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "mission": "-",
+    "type": "dialogue",
+    "entries": [
+      {
+        "speaker": "Kibic 1",
+        "text": "sraj, w bordowy szalik sraj, jak jaaa! Ej, czemu nie spiewasz?"
+      },
+      {
+        "speaker": "Kibic 2",
+        "text": "Nie znam tej przyspiewki"
+      },
+      {
+        "speaker": "Kibic 1 ",
+        "text": "fakt, improwizowalem"
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "mission": "-",
+    "type": "phrase",
+    "entries": [
+      {
+        "speaker": "Tomisław Łapoloniusz Curuś Bachleda Farel",
+        "text": "Ryby w Morskim Łuoku zdechły, a w Czarnym Stawie... zdechły"
+      }
+    ]
+  },
+   {
+    "id": 17,
+    "mission": "-",
+    "type": "dialogue",
+    "entries": [
+      {
+        "speaker": "speaker 1",
+        "text": "Wodę z kranu czy z czajnika?"
+      },
+      {
+        "speaker": "speaker 2",
+        "text": "No to może być przegotwana."
+      },
+      {
+        "speaker": "speaker 1",
+        "text": "Nie powiedziałem, że z czajnika jest przegotowana."
+      }
+    ]
+  }
+  
+]
